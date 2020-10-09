@@ -4,3 +4,7 @@
 # Usage
 
 perl iplocate.pl ip.here
+
+# you have to install some packages
+
+apt-get install libdata-validate-ip-perl geoip-database libgeo-ip-perl
